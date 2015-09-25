@@ -4,9 +4,36 @@ Mozilla Tamilnadu Website
 
 Hashtag : #MozillaTN
 
+This is run with set of contributors from Tamilnadu (India)
+
 Link : http://mozillatn.github.io
 
 Mozilla Tamilnadu Website
+
+If you are Mozilla Contributor living in Tamilnadu and would like to add either you events or blogpost please follow the json below
+
+## For Adding Events
+Visit [event.js](https://github.com/MozillaTN/mozillatn.github.io/blob/master/event.json)
+
+At the start of the JSON add following lines
+```json
+{"event_name":"Name of the Event",
+"event_description":"Good description about your event atleast 10 words",
+"event_date":"Date the event is held",
+"facebook_event":"",
+"organiser":"Name of the organiser",
+ "etherpad_link":"etherpad link"
+},
+```
+###Note: The etherpad can have detailed agenda of the event
+
+## For Adding Blogposts
+Visit [blogpost.json](https://github.com/MozillaTN/mozillatn.github.io/blob/master/blogpost.json)
+```json
+{"blogpost_name":"Name of the Blogpost",
+		"link":"Link of your blogpost",
+		"authorname":"Name of the Author"},
+```
 
 Website to publish blogs and accept registration of volunteers / members.
 
