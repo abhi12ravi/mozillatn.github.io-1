@@ -1,0 +1,65 @@
+{
+"taskforce":[
+
+		{"task_name":"Webmaker",
+                "mentor":"GauthamRaj",
+                "peers":""
+                },
+
+		{"task_name":"SUMO",
+                "mentor":"Jayakumar",
+                "peers":""
+                },
+
+		{"task_name":"Coding",
+                "mentor":"Vikneshwar Vicky",
+                "peers":""
+                },
+
+
+	         {"task_name":"Add-ons Development",
+                "mentor":"Naresh Kumar",
+                "peers":""
+                },
+
+
+                {"task_name":"Localisation",
+                "mentor":"Khaleel",
+                "peers":"Gowtham Venkat"
+                },
+
+
+                {"task_name":"FSA",
+                "mentor":"Karthickeyan",
+                "peers":""
+                },
+
+	        {"task_name":"Documentation",
+                "mentor":"Adam",
+                "peers":""
+                },
+
+
+		 {"task_name":"Evangelism",
+                "mentor":"Vigneshwaran D",
+                "peers":""
+                },
+
+	
+		{"task_name":"Geolocation",
+                "mentor":"Makilan",
+                "peers":""
+                },
+
+
+		{"task_name":"Firefox OS app development",
+                "mentor":"Viswaprasath",
+                "peers":""
+                }
+
+	
+
+
+]
+
+}

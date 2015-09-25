@@ -1,0 +1,52 @@
+{
+"events":[
+
+		{"event_name":"Firefox OS app development",
+                "event_description":"Introduction to Firefox OS app development, setting up simulator and WebIDE discussion.",
+                "event_date":"14-08-2015",
+                "facebook_event":"",
+		"organiser":"Viswaprasath",
+                "etherpad_link":"https://moztn.etherpad.mozilla.org/WeeksOfContribution-Firefox-OS-Development"
+                },
+
+		{"event_name":"Lets Learn SUMO",
+                "event_description":"SUMO is short form for Support Mozilla",
+                "event_date":"23-08-2015",
+                "facebook_event":"","organiser":"Khaleel",
+                "etherpad_link":"https://moztn.etherpad.mozilla.org/WoC-SuMo-l10n"
+                },
+
+
+		{"event_name":"Addons week",
+                "event_description":"Introduction about Add-ons developement",
+                "event_date":"25-07-2015",
+                "facebook_event":"","organiser":"NareshKumar",
+                "etherpad_link":"https://moztn.etherpad.mozilla.org/Weeks-of-Contribution-Addons"
+                },
+
+		{"event_name":"Documentation week",
+                "event_description":"Documentation projects like Mozilla developer Network and blogging will be discussed",
+                "event_date":"04-07-2015",
+                "facebook_event":"","organiser":"Karthic",
+                "etherpad_link":"https://moztn.etherpad.mozilla.org/Weeks-of-Contribution-Documentation"
+                },
+
+
+                {"event_name":"L10N Handson week",
+                "event_description":"We will be learning more about localization events.",
+                "event_date":"19-06-2015",
+		"facebook_event":"","organiser":"Khaleel",
+		"etherpad_link":"https://moztn.etherpad.mozilla.org/l10n-handson-week"
+		},
+
+	                {"event_name":"Introduction week",
+                "event_description":"First week of Weeks of COntribution, introduction about MLS and logo design contest",
+                "event_date":"05-06-2015",
+                "facebook_event":"","organiser":"Viswaprasath",
+		"etherpad_link":"https://moztn.etherpad.mozilla.org/Introduction-week"
+                }
+
+
+]
+
+}

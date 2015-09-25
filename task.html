@@ -1,0 +1,33 @@
+ <div style="padding-left:130px;padding-right:200px;">
+   <h1>Hello Contributor</h1>
+  <p>Our Community has got some rich mentors who loves to help other new contributors.</p>
+
+<div class="container">
+    <div class="page-header">
+        <h4 id="timeline">Timeline of events</h4>
+    </div>
+    <ul class="timeline">
+
+        <li ng-repeat="task in taskforceteam" ng-class-even="'timeline-inverted'">
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">{{task.task_name}}</h4>
+        </div>
+            <div class="timeline-body">
+              
+                <i>Mentor:</i><b><h4>{{task.mentor}}</h4></b>
+		<i>Peers:</i><h4>{{task.peers}}</h4>
+            </div>
+
+          </div>
+
+     </li>
+
+
+
+
+    </ul>
+</div>
+
+
+</div>

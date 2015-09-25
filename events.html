@@ -1,0 +1,35 @@
+ 
+
+
+<div style="padding-left:130px;padding-right:200px;">
+
+<h2><b> We have done some of the events.Take a look at that</b></h2>
+<div class="container">
+    <div class="page-header">
+        <h4 id="timeline">Timeline of events</h4>
+    </div>
+    <ul class="timeline">
+
+	<li ng-repeat="events in eventsarray" ng-class-even="'timeline-inverted'">
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">{{events.event_name}}</h4>
+             <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> {{ events.event_date}}</small></p>
+	</div>
+            <div class="timeline-body">
+              <p>{{events.event_description}}</p>
+		<a href={{events.etherpad_link}}  target='_blank'> Etherpad Link</a> <i>by {{events.organiser}}</i>
+            </div>
+            
+          </div>
+	
+     </li>
+
+
+       
+
+    </ul>
+</div>
+
+
+</div>

@@ -1,0 +1,51 @@
+{
+"contribution_areas":[
+		{"name":"Coding",
+		"description":"There are lot of ways a person can contribute with the help of code Mozilla related Products which include Firefox, Firefox OS, Contributing to Rust and so on.",
+		"class":"fa fa-code"},
+		
+		 {"name":"Testing",
+                "description":"For finding lot of issues in the Firefox Products you don't need to be expert. It is easier to test the products and file the bugs with the help of One And Done.",
+		"class":"fa fa-bug"},
+
+		 {"name":"Writing",
+                "description":"You can easily write blog post about Firefox, Firefox OS and write MDN articles all it needs in writing knowledge in any language.",
+		"class":"fa fa-pencil"},
+
+		 {"name":"Teaching",
+                "description":"With the help of your communication skills you can share your skills to community who are willing to learn.",
+		"class":"fa fa-comments-o"},
+
+		 {"name":"Activism",
+                "description":"Get involved with opportunities which will support freedom, security, privacy on open web.",
+		"class":"fa fa-bullhorn"},
+
+		 {"name":"Translating",
+                "description":"Help mozilla in translating everything, so people all over the world will love to read. Translate website, MDN pages, SUMO pages.",
+		"class":"fa fa-exchange"},
+
+		 {"name":"Helping",
+                "description":"Help Mozillians all over the if they get in trouble",
+			"class":"fa fa-file-text-o"},
+
+
+		 {"name":"Geolocation",
+                "description":"There is easier way to contribute to Mozilla, you can easily collect information like cell phone towers and wifi signals locations and share to open maps.",
+		"class":"fa fa-map-marker"},
+
+		 {"name":"Social Media",
+                "description":"We have lot of dedicated channels to contact with other contributors, it is exciting opportunity to interact with people in Social media and improve your designing skills and social media management skills",
+		"class":"fa fa-commenting"}
+		     ],
+
+"socialmedia_links":[
+		{"link":"https://www.facebook.com/MozilliansTamilNadu", "class":"fa fa-facebook social-icon fa-3x","target":"_blank"},
+		{"link":"https://twitter.com/mozillaTN", "class" :"fa fa-twitter social-icon fa-3x","target":"_blank"},
+		{"link":"https://www.facebook.com/groups/719835014702351/", "class" :"fa fa-users social-icon fa-3x","target":"_blank"},
+		{"link":"https://github.com/mozillatn", "class" :"fa fa-github social-icon fa-3x","target":"_blank"},
+		{"link":"mailto:mozchennai@gmail.com target=", "class":"fa fa-envelope social-icon fa-3x","target":"_top"},
+		{"link":"https://plus.google.com/114659195855531909366/posts", "class":"fa fa-google-plus social-icon fa-3x","target":"_blank"},
+		{"link":"https://groups.google.com/forum/#!forum/mozillianstn", "class":"fa fa-users social-icon fa-3x","target":"_blank"}
+		
+		]
+}
