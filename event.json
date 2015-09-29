@@ -45,6 +45,20 @@
                 "facebook_event":"","organiser":"Viswaprasath",
 		"etherpad_link":"https://moztn.etherpad.mozilla.org/Introduction-week"
                 }
+                
+                {"event_name":"One day Tamil l10n & dev sprint",
+                "event_description":"A localization event for beginners and open source introduction at Dr Pauls College, Pondicherry.",
+                "event_date":"26-09-2015",
+                "facebook_event":"https://reps.mozilla.org/e/tamil-l10n-training-sprint/",
+		"organiser":"Khalleel, Abhiram",
+                },
+                
+                {"event_name":"MozCofee - Trichy Community meetup",
+                "event_description":"A regional meetup of Trichy community, FSA recruitment and plan ahead at NIT Trichy",
+                "event_date":"22-10-2015",
+                "facebook_event":"https://www.facebook.com/events/143582029326256/",
+		"organiser":"Abhiram",
+                },
 
 
 ]
